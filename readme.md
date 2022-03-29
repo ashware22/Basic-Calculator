@@ -1,4 +1,4 @@
-# Python Calculator [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Python Calculator [![forthebadge]]
 ### This is a simple python calculator
 ---
 ### Requirements
