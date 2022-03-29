@@ -1,8 +1,8 @@
-# Python Calculator [![forthebadge]]
+# Python Calculator
 ### This is a simple python calculator
 ---
 ### Requirements
- 1. Make sure you have [**Python** ](https://www.python.org/)(Version 3.6 or higher) installed in your system.
+ 1. Make sure you have [**Python** ](https://www.python.org/)(Version 3.10.4 or higher) installed in your system.
  2. Just download and run the main.py file.
  3. For using GUI, you will need to install [**PyQt5 module**](https://pypi.org/project/PyQt5/)
  
